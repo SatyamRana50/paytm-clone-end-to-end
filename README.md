@@ -102,7 +102,7 @@ React, NodeJs, ExpressJs, MongoDb
 ![Signup Page](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/932867df-09fe-43d9-92de-920dd12855ac)
 ![Dashboard](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/abc3ffb2-c2c2-46fa-9e4b-ee86f72f3ee7)
 ![Money Transfer](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/3a640483-1163-41e0-8106-e7a58dea33ea)
-![Transfer Succesful]([image_link_2](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/23d5ef17-b4b0-4820-b166-6b99de3acd0e))
+![Transfer Succesful](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/23d5ef17-b4b0-4820-b166-6b99de3acd0e)
 ![Low balance](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/8cd233a9-3104-447f-8afd-d098bf169170)
 
 
