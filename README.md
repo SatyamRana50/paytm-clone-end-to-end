@@ -73,11 +73,6 @@ This project is a clone of the Paytm application developed using the MERN (Mongo
 - [@SatyamChauhan](https://github.com/SatyamRana50)
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 ## 🛠 Skills
 React, NodeJs, ExpressJs, MongoDb
 
@@ -98,5 +93,18 @@ React, NodeJs, ExpressJs, MongoDb
 - Money Transfer
 - Responsive design
 - built totally using MongoDB, Express.js, React.js, Node.js
+
+
+
+## Screenshots
+
+![SignIn Page](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/e142174b-998e-4316-ba1f-fda94374c547)
+![Signup Page](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/932867df-09fe-43d9-92de-920dd12855ac)
+![Dashboard](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/abc3ffb2-c2c2-46fa-9e4b-ee86f72f3ee7)
+![Money Transfer](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/3a640483-1163-41e0-8106-e7a58dea33ea)
+![Transfer Succesful](image_link_2)
+![Low balance](https://github.com/SatyamRana50/paytm-clone-end-to-end/assets/100602483/8cd233a9-3104-447f-8afd-d098bf169170)
+
+
 
 
